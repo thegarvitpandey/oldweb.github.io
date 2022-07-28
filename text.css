@@ -1,0 +1,109 @@
+
+.name {
+    font-family: fantasy;
+    font-size-adjust: inherit;
+    font-style: italic;
+    color: rgb(252, 0, 0);
+    font-kerning: normal;
+}
+
+.navbar-brand {
+    margin: 10px;
+   
+    color: aqua;
+    font-family: 'Kdam Thmor Pro',sans-serif;
+}
+
+.nav-link {
+    color: white;
+    width: 40%;
+    font-family: Kanit, sans-serif;
+}
+
+.sql {
+    color: rgb(154, 50, 102);
+    font-size: 180%;
+    text-decoration: underline;
+    font-family: 'Kanit', sans-serif;
+}
+
+.python {
+    font-size: 180%;
+    color: brown;
+    text-decoration: underline;
+    font-family: 'Montserrat Alternates',sans-serif;
+}
+
+.skis {
+    font-family: 'Fascinate', cursive;
+    font-size: 275%;
+    color: rgb(34, 112, 126);
+    text-align: center;
+}
+
+.h11 {
+    text-align: center;
+    margin: 20px;
+    color: rgb(30, 61, 28);
+    font-size: 500%;
+    position: relative;
+    font-family: 'Sacramento', cursive;
+}
+
+.h22 {
+    text-align: center;
+    margin: auto;
+    font-size: 280%;
+    position: relative;
+    color: blue;
+}
+
+.contact-me {
+    font-family: 'Kdam Thmor Pro',sans-serif;
+    font-size: 180%;
+    color: blue;
+    text-decoration: underline;
+}
+
+.profile {
+    font-family: "Brush Script MT", "Rockwell Extra Bold", "Rockwell Bold", monospace;
+    font-size: 250%;
+}
+
+.hey {
+    font-family: 'Dancing Script', sans-serif;
+    font-weight: 800;
+    font-size: 130%;
+    color: red;
+    line-height: 1;
+}
+
+.btm-txt {
+    font-family: Fascinate, Arial;
+    text-align: auto;
+    font-weight: bold;
+    text-decoration: underline;
+    margin: 30px 20px 0px auto;
+    color: white;
+    font-size:280%;
+
+}
+
+.bottom {
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 135%;
+    color: white;
+}
+
+
+/* .skills {
+    text-align: center;
+    font-size: 180%;
+    font-weight: italic;
+    border-style: double;
+    border-width: 10%;
+    border-spacing: 10%;
+    color: azure;
+
+}*/

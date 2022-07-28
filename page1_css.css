@@ -1,0 +1,126 @@
+
+body {
+    background-color: #FCF8E8;
+    text-decoration: solid;
+    font-family: fantasy;
+    color: black;
+    width: auto;
+    position: relative;
+}
+
+.NAV {
+    color: black;
+    margin: 25px 10px 25px 10px;
+    width: auto;
+    position: relative;
+}
+
+.log {
+    width: 25%;
+    line-height: 0%;
+}
+
+.top-container {
+    background-color: rgb(246, 181, 62);
+    margin: 25px 0px 25px 10px;
+    width: auto;
+}
+
+.middle-container {
+    width: 70%;
+    height: 50%;
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 130%;
+    position: relative;
+}
+
+.bot-cont {
+    background-color:rgb(150, 98, 2);
+    margin-top: 60px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 5px;
+    width: 100%;
+}
+
+.books {
+    width: 25%;
+    float: left;
+}
+
+.pho {
+    width: 25%;
+    float: left;
+}
+
+.py {
+    width: 25%;
+    margin-right: 30px;
+    float: right;
+}
+
+.hr2 {
+    border-style: none;
+    border-top: 7px dotted;
+    color: rgb(0, 0, 0);
+    width: 7%;
+    position: relative;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.hr21 {
+    border-style: solid;
+    border-top: 7px; 
+    color: rgb(255, 0, 98);
+    width: 80%;
+    position: relative;
+}
+
+.brk {
+    border: 7px;
+    border-top-style: dotted;
+    color: rgb(91, 91, 91);
+    width: 7%;
+}
+
+#peet {
+    position: relative;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.skill-row {
+    position: relative;
+    margin: 0 auto 0 auto;
+    color: black;
+}
+
+.lnk {
+    width: 5%;
+    right: 10px;
+    line-height: 2;
+}
+
+.twt {
+    width: 5%;
+    right: 10px;
+    line-height: 2;
+}
+
+.site {
+    width: 5%;
+    right: 10px;
+}
+
+.alllinks {
+    display: inline-block;
+}
+
+
+/* margin: top right bottom left; is used only for block elements
+for inline use simple text-align prop. */

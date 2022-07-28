@@ -1,0 +1,53 @@
+body {
+    background-color: #E4D1B9;
+    width: 90%;
+    padding: 1%;
+    margin: 20px;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+
+    border: 3px solid brown;
+}
+
+table {
+    border: 5px solid blue;
+}
+
+td, th {
+    border: 2px dotted green;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    width: 25%;
+    border-width: 10px;
+    border-color: rgb(70, 69, 69);
+}
+
+h1 {
+    text-align: center; 
+}
+#h31 {
+    color: purple; 
+    text-align: center;
+    font-weight: bold;
+}
+
+#h32 {
+    color: limegreen;
+    text-align: center;
+    font-weight: bold;
+}
+
+#h33 {
+    color: orange;
+    text-align: center;
+    font-weight: bold;
+}
+
+ol > li {
+    color: rgb(254, 0, 199);
+}
+
